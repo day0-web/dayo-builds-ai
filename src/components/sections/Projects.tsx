@@ -92,19 +92,11 @@ export const Projects = () => {
                     </div>
                   </div>
 
-                  <div className="flex space-x-3 pt-4">
+                  <div className="flex pt-4">
                     <Button 
                       variant="outline" 
                       size="sm"
-                      className="flex-1 border-border/50 hover:border-primary/50 hover:bg-primary/5 transition-all duration-300"
-                    >
-                      <Github className="mr-2 h-4 w-4" />
-                      Code
-                    </Button>
-                    <Button 
-                      variant="outline" 
-                      size="sm"
-                      className="flex-1 border-border/50 hover:border-accent/50 hover:bg-accent/5 transition-all duration-300"
+                      className="w-full border-border/50 hover:border-accent/50 hover:bg-accent/5 transition-all duration-300"
                     >
                       <ExternalLink className="mr-2 h-4 w-4" />
                       Demo
