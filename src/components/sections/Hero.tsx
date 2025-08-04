@@ -65,7 +65,7 @@ CERTIFICATIONS
           </h1>
           
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto leading-relaxed">
-            Aspiring Software Engineer with a Focus on{" "}
+            Software Engineer with a Focus on{" "}
             <span className="text-primary font-semibold">Smart Systems</span> and{" "}
             <span className="text-accent font-semibold">UI/UX Design</span>
           </p>
